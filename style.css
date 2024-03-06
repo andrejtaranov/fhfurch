@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+a{
+   text-decoration: none;
+   color: gold;
+   padding-bottom: 40px;
+   padding: 100px;
+
+}
+nav{
+    color: gold;
+    font-size: 24px;
+    border-top: 3px solid gold;
+    border-bottom: 3px solid gold;
+    
+}
+.p{
+    color: gold;
+    font-size: 24px;
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+main{
+    display:block;
+    color: gold;
+    padding: 60px;
+}
+main img{
+    height: 190px;
+    width: 240px;
+    padding: 30px;
+    padding-left: 40px;
+    border-radius: 30%;
+}
+footer{
+    color: black;
+    background-color: gold;
+    padding: 35px;
+    font-size: 24px;
+}
+
+img:hover{
+    height: 230px;
+    width: 280px;
+}
+a:hover{
+    color: #9f8f02;
+}
